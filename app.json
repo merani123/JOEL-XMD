@@ -20,7 +20,7 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": "true"
         },
     "AUTOLIKE_STATUS": {
@@ -30,12 +30,12 @@
     },
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 💚",
-      "required": false,
+      "required": true,
       "value": "💚"
       },
     "AUTO_REACT": {
       "description": "make it true if you want a bot to react on messages",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_REPLY_STATUS": {
@@ -65,7 +65,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTO_BLOCK": {
