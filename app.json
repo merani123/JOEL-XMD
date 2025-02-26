@@ -8,7 +8,7 @@
   "repository": "https://github.com/Ethix-Xsid/Ethix-MD",
   "stack": "container",
   "env": { 
-      "SESSION_ID": {
+      "Joel-Md&nitNDHzZ": {
       "description": "your session id",
       "required": true,
       "value": ""
